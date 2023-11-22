@@ -4,10 +4,10 @@
 
 @font-face {
     font-family: 'Montserrat';
-    src: url('/assets/Montserrat/Montserrat-VariableFont_wght.ttf');
+    src: url('./assets/Montserrat/Montserrat-VariableFont_wght.ttf');
   }
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('/assets/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf');
+    src: url('./assets/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf');
 }
